@@ -1,5 +1,5 @@
 import React, { Component } from "react";
-import { View, text, Stylesheet } from "react-native";
+import { View, text, StyleSheet } from "react-native";
 
 const Header = () => {
   return (
