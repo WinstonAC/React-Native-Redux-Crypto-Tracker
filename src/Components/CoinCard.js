@@ -73,8 +73,8 @@ const {
   coinPrice,
   statisticsContainer,
   seperator,
-  precentageChagePlus,
-  precentageChageMinus,
+  precentageChangePlus,
+  precentageChangeMinus,
 } = styles;
 
 const CoinCard = ({
